@@ -1,7 +1,9 @@
-<hr>
+</div>
+<div id="footer">
+	<p>Copyright (c) 2012 slewson.com. All rights reserved.</p>
+</div>
 
-<small>Copyright 2008 My Site</small><br>
-
+</div>
+<!-- end #footer -->
 </body>
-
 </html>
