@@ -4,4 +4,4 @@
 
 Here is the specific content of this page....<br>
 
-<?php include 'page_footer.php'; ?>
+<?php $page = "index"; include 'page_footer.php'; ?>
