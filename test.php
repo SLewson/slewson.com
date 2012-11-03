@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+<?php $page="test" require_once 'header.php'; ?>
 
 <b>Sub-Page Title</b><p>
 
