@@ -1,12 +1,11 @@
 <html>
+
+<head><title>My Site</title></head>
+
 <body>
 
-<head><title> Title </title></head>
+<h2>My Site Title</h2><p>
 
-<body>
-
-<h2 align="center"> Site Title </h>
-
-<p align="center"> Option 1 | Option 2 | Option 3 </p>
+My Site menu goes here........... Choice 1  |  Choice 2  |  Choice 3
 
 <hr>

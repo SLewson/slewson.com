@@ -1,6 +1,7 @@
 <hr>
 
-<p align="center"> Copyright 2012 Slewson.com </p>
+<small>Copyright 2008 My Site</small><br>
 
 </body>
+
 </html>
