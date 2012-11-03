@@ -13,6 +13,7 @@
 </style>
 </head>
 <body>
+
 <div id="wrapper">
 	<div id="header">
 		<div id="logo">
@@ -23,7 +24,7 @@
 	<!-- end #header -->
 	<div id="menu">
 		<ul>
-			<li class="current_page_item"><a href="index.html">Home</a></li>
+			<li <?php if ($page == "index") { echo class="current_page_item" }><a href="index.html">Home</a></li>
 			<li><a href="projects.html">Projects</a></li>
 			<li><a href="about.html">About</a></li>
 			<li><a href="resume.html">Resume</a></li>
