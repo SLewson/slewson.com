@@ -5,7 +5,7 @@
 
 Here is the specific content of this page....<br>
 
-<?php if (thisPage == "test")
+<?php if ($thisPage == "test")
 	echo "<p> hi </p>";
 ?>>
 
