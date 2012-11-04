@@ -1,4 +1,4 @@
-<?php $page="test"; include 'page_header.php'; ?>
+<?php include 'page_header.php'; ?>
 
 <b>Sub-Page Title</b><p>
 
