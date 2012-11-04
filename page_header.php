@@ -1,3 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+
+Name       : OfficialWork 
+Description: A two-column, fixed-width design with dark color scheme.
+Version    : 1.0
+Released   : 20121012
+
+-->
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta name="keywords" content="" />
@@ -13,7 +25,6 @@
 </style>
 </head>
 <body>
-
 <div id="wrapper">
 	<div id="header">
 		<div id="logo">
@@ -24,7 +35,7 @@
 	<!-- end #header -->
 	<div id="menu">
 		<ul>
-			<li <?php if ($page == "index") { echo class="current_page_item" }><a href="index.html">Home</a></li>
+			<li class="current_page_item"><a href="index.html">Home</a></li>
 			<li><a href="projects.html">Projects</a></li>
 			<li><a href="about.html">About</a></li>
 			<li><a href="resume.html">Resume</a></li>
