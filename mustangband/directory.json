@@ -1,0 +1,999 @@
+{
+	"directory": 
+	{
+		"items" : [
+			{
+				"type": "LEADERSHIP",
+				"title": "Leadership",
+				"content": [
+					{
+						"names": "Dr. Andrew McMahan & Christopher Woodruff & Len Kawamoto",
+						"position": "Director of Bands, Associate Director and Assistant Director",
+						"email": "pepband-directors@calpoly.edu"
+					},
+					{
+						"names": "Scott Charvet",
+						"position": "Staff Assistant and Percussion Instructor",
+						"email": "pepband-percussioninstructor@calpoly.edu"
+					},
+					{
+						"names": "Carissa Bockhahn",
+						"position": "Colorguard Instructor",
+						"email": "pepband-colorguardinstructor@calpoly.edu"
+					},
+					{
+						"names": "Karissa Finn",
+						"position": "CEO",
+						"email": "pepband-ceo@calpoly.edu"
+					},
+					{
+						"names": "Maggie Maratsos",
+						"position": "AEO",
+						"email": "pepband-aeo@calpoly.edu"
+					},
+					{
+						"names": "Ariana Greenburg & Bryan Schmidt & Morgan Johnson",
+						"position": "Personnel Managers",
+						"email": "pepband-personnelmanager@calpoly.edu"
+					},
+					{
+						"names": "Gabrielle Koizumi & Sam Andres",
+						"position": "Uniform Managers",
+						"email": "pepband-uniformmanager@calpoly.edu"
+					},
+					{
+						"names": "Hillary Tung & Chad Sickler & Richard Cruz-Silva",
+						"position": "Librarians",
+						"email": "pepband-librarian@calpoly.edu"
+					},
+					{
+						"names": "Brett Malta & Aaron Gragg",
+						"position": "Equipment Manager",
+						"email": "pepband-equipmentmanager@calpoly.edu"
+					},
+					{
+						"names": "Eric Strohm",
+						"position": "Facilities Manager",
+						"email": "pepband-facilitiesmanager@calpoly.edu"
+					},
+					{
+						"names": "Amy Hypnarowski",
+						"position": "Historian",
+						"email": "pepband-historian@calpoly.edu"
+					},
+					{
+						"names": "Jeff Brown & Erin Stearns & Andrew Parker",
+						"position": "Drum Majors",
+						"email": "pepband-drummajors@calpoly.edu"
+					},
+					{
+						"names": "Maggie Maratsos & Alessandra Shanus",
+						"position": "Flutes",
+						"email": "pepband-flutesectionleader@calpoly.edu"
+					},
+					{
+						"names": "Karissa Finn & Karla Lazalde",
+						"position": "Clarinets",
+						"email": "pepband-clarinetsectionleader@calpoly.edu"
+					},
+					{
+						"names": "Stephanie Raymond & Chad Sickler",
+						"position": "Altos",
+						"email": "pepband-saxophonesectionleader@calpoly.edu"
+					},
+					{
+						"names": "Mike Czbaranek",
+						"position": "Tenors",
+						"email": "pepband-saxophonesectionleader@calpoly.edu"
+					},
+					{
+						"names": "Kaylinn Roseman & Anthony Pultz",
+						"position": "Trumpets",
+						"email": "pepband-trumpetsectionleader@calpoly.edu"
+					},
+					{
+						"names": "Tony Soto",
+						"position": "Horns",
+						"email": "pepband-hornsectionleader@calpoly.edu"
+					},
+					{
+						"names": "Kevin Brewer & Eric Strohm",
+						"position": "Trombones",
+						"email": "pepband-trombonesectionleader@calpoly.edu"
+					},
+					{
+						"names": "Daniel Stone",
+						"position": "Baritones",
+						"email": "pepband-baritonesectionleader@calpoly.edu"
+					},
+					{
+						"names": "Aaron Gragg",
+						"position": "Tubas",
+						"email": "pepband-tubasectionleader@calpoly.edu"
+					},
+					{
+						"names": "TBD",
+						"position": "Percussion",
+						"email": "pepband-percussionsectionleader@calpoly.edu"
+					},
+					{
+						"names": "Elani Goodhart",
+						"position": "Colorguard",
+						"email": "pepband-colorguardsectionleader@calpoly.edu"
+					},
+					{
+						"names": "Ashley Long & Tasha Taylor",
+						"position": "Twirlers",
+						"email": "pepband-twirlers@calpoly.edu"
+					}
+				]
+			},
+			{
+				"type": "PEPBAND",
+				"title": "A Band",
+				"content": [
+					{
+						"section": "Drum Major",
+						"haschairs": "false",
+						"members": [
+							{
+								"name": "Jeff B."
+							}
+						]
+					}, 
+					{
+						"section": "Flutes",
+						"haschairs": "false",
+						"members": [
+							{
+								"name": "Ari G."
+							},
+							{
+								"name": "Gabbie K."
+							},
+							{
+								"name": "Christina M."
+							},
+							{
+								"name": "Angelica Q."
+							},
+							{
+								"name": "Amy H."
+							},
+							{
+								"name": "Maribel M."
+							},
+							{
+								"name": "Zak M."
+							},
+							{
+								"name": "Alessandra S."
+							}
+						]
+					},
+					{
+						"section": "Clarinets",
+						"haschairs": "false",
+						"members": 	[
+							{
+								"name": "Travis L."
+							},
+							{
+								"name": "John O."
+							},
+							{
+								"name": "Paul S."
+							},
+							{
+								"name": "Stacey F."
+							},
+							{
+								"name": "Winifred L."
+							},
+							{
+								"name": "Ryan T."
+							},
+							{
+								"name": "Brittany M."
+							}
+						]
+					},
+					{
+						"section": "Alto Saxes",
+						"haschairs": "false",
+						"members": [
+							{
+								"name": "Chad S."
+							},
+							{
+								"name": "Spencer L."
+							},
+							{
+								"name": "David K."
+							},
+							{
+								"name": "Jose B."
+							},
+							{
+								"name": "Zak L."
+							}
+						]
+					},
+					{
+						"section": "Tenor Saxes",
+						"haschairs": "false",
+						"members": [
+							{
+								"name": "Kelton S."
+							},
+							{
+								"name": "Jacob H."
+							},
+							{
+								"name": "Sean O."
+							},
+							{
+								"name": "Michael C."
+							}
+						]
+					},
+					{
+						"section": "Trumpets",
+						"haschairs": "true",
+						"members": [
+							{
+								"name": "Alex P.",
+								"chair": "1st Upper"
+							},
+							{
+								"name": "Nigel P.",
+								"chair": "1st Lower"
+							},
+							{
+								"name": "Kaylinn R.",
+								"chair": "1st Lower"
+							},
+							{
+								"name": "David X.",
+								"chair": "1st Lower"
+							},
+							{
+								"name": "Andrew P.",
+								"chair": "2nd"
+							},
+							{
+								"name": "Daniel E.",
+								"chair": "2nd"
+							},
+							{
+								"name": "Enoch T.",
+								"chair": "2nd"
+							},
+							{	
+								"name": "Rebecca I.",
+								"chair": "2nd"
+							},
+							{
+								"name": "Duc D.",
+								"chair": "3rd"
+							},
+							{
+								"name": "Frankie I.",
+								"chair": "3rd"
+							},
+							{
+								"name": "Nicholas O.",
+								"chair": "3rd"
+							},
+							{
+								"name": "Stephen O.",
+								"chair": "3rd"
+							}
+						]
+					},
+					{
+						"section": "Horns",
+						"haschairs": "false",
+						"members": [
+							{
+								"name": "Julia S."
+							},
+							{
+								"name": "Nina L."
+							}
+						]
+					},
+					{
+						"section": "Trombones",
+						"haschairs": "false",
+						"members": [
+							{
+								"name": "Nate H."
+							},
+							{
+								"name": "Geronimo D."
+							},
+							{
+								"name": "Rose D."
+							},
+							{
+								"name": "Aaron B."
+							},	
+							{
+								"name": "Matthew G."
+							},
+							{
+								"name": "Max F."
+							},
+							{
+								"name": "Allison W."
+							},
+							{
+								"name": "Eric S."
+							}
+						]
+					},
+					{
+						"section": "Baritones",
+						"haschairs": "false",
+						"members": [
+							{
+								"name": "Daniel S."
+							},
+							{
+								"name": "Michael N."
+							},
+							{
+								"name": "Eric B."
+							},
+							{
+								"name": "Ryan W."
+							},
+							{
+								"name": "Jordan D."
+							}
+						]	
+					},
+					{
+						"section": "Tubas",
+						"haschairs": "false",
+						"members": [
+							{
+								"name": "Stephen M."
+							},
+							{
+								"name": "Michael S."
+							},
+							{
+								"name": "Juan A."
+							},
+							{
+								"name": "Zachary P."
+							}
+						]
+					},
+					{
+						"section": "Percussion",
+						"haschairs": "true",
+						"members": [
+							{
+								"name": "Shelley D.",
+								"chair": "Cymbals"
+							},
+							{
+								"name": "Tristan P.",
+								"chair": "Cymbals"
+							},
+							{
+								"name": "Kyle L.",
+								"chair": "Snare"
+							},
+							{
+								"name": "Akshay N.",
+								"chair": "Snare"
+							},
+							{
+								"name": "Nicholas G.",
+								"chair": "Tenors"
+							},
+							{
+								"name": "Jason W.",
+								"chair": "Tenors"
+							},
+							{
+								"name": "Richard C.",
+								"chair": "Bass"
+							},
+							{
+								"name": "Leslie C.",
+								"chair": "Bass"
+							},
+							{
+								"name": "Sara M.",
+								"chair": "Bass"
+							}
+						]
+					}
+				]
+			},
+			{
+				"type": "PEPBAND",
+				"title": "B Band",
+				"content": [
+					{
+						"section": "Drum Major",
+						"haschairs": "false",
+						"members": [
+							{
+								"name": "Andrew P."
+							}
+						]
+					}, 
+					{
+						"section": "Flutes",
+						"haschairs": "false",
+						"members": [
+							{
+								"name": "Andy A."
+							},
+							{
+								"name": "Shawn M."
+							},
+							{
+								"name": "Deborah N."
+							},
+							{
+								"name": "Alyson T."
+							},
+							{
+								"name": "Mattea C."
+							},
+							{
+								"name": "Patty H."
+							},
+							{
+								"name": "Emily O."
+							},
+							{
+								"name": "Maggie M."
+							}
+						]
+					},
+					{
+						"section": "Clarinets",
+						"haschairs": "false",
+						"members": 	[
+							{
+								"name": "Sam A."
+							},
+							{
+								"name": "Eric M."
+							},
+							{
+								"name": "Karla L."
+							},
+							{
+								"name": "Dana B."
+							},
+							{
+								"name": "Michael F."
+							},
+							{
+								"name": "Kaite B."
+							},
+							{
+								"name": "Emmerie S."
+							}
+						]
+					},
+					{
+						"section": "Alto Saxes",
+						"haschairs": "false",
+						"members": [
+							{
+								"name": "Brian R."
+							},
+							{
+								"name": "Nikole K."
+							},
+							{
+								"name": "Kelsey M."
+							},
+							{
+								"name": "Emily T."
+							},
+							{
+								"name": "Leo B."
+							},
+							{
+								"name": "Ashley K."
+							}
+						]
+					},
+					{
+						"section": "Tenor Saxes",
+						"haschairs": "false",
+						"members": [
+							{
+								"name": "Joel S."
+							},
+							{
+								"name": "Sarah T."
+							},
+							{
+								"name": "Jake G."
+							},
+							{
+								"name": "Allen B."
+							}
+						]
+					},
+					{
+						"section": "Trumpets",
+						"haschairs": "true",
+						"members": [
+							{
+								"name": "Burlie F.",
+								"chair": "1st Upper"
+							},
+							{
+								"name": "Anthony P.",
+								"chair": "1st Upper"
+							},
+							{
+								"name": "Bryan R.",
+								"chair": "1st Lower"
+							},
+							{
+								"name": "Nicholas S.",
+								"chair": "1st Lower"
+							},
+							{
+								"name": "Cory D.",
+								"chair": "2nd"
+							},
+							{
+								"name": "Erik W.",
+								"chair": "2nd"
+							},
+							{
+								"name": "Sean E.",
+								"chair": "2nd"
+							},
+							{
+								"name": "Cameron T.",
+								"chair": "3rd"
+							},
+							{
+								"name": "Hillary T.",
+								"chair": "3rd"
+							},
+							{
+								"name": "Isaac G.",
+								"chair": "3rd"
+							},
+							{
+								"name": "Jordan A.",
+								"chair": "3rd"
+							}
+						]
+					},
+					{
+						"section": "Horns",
+						"haschairs": "false",
+						"members": [
+							{
+								"name": "Justin S."
+							},
+							{
+								"name": "Kate V."
+							},
+							{
+								"name": "Tony S."
+							}
+						]
+					},
+					{
+						"section": "Trombones",
+						"haschairs": "false",
+						"members": [
+							{
+								"name": "Thomas S."
+							},
+							{
+								"name": "Elliot F."
+							},
+							{
+								"name": "Ryan F."
+							},
+							{
+								"name": "Brent A."
+							},	
+							{
+								"name": "Nick P."
+							},
+							{
+								"name": "Alyse F."
+							},
+							{
+								"name": "Max L."
+							},
+							{
+								"name": "Kate M."
+							}
+						]
+					},
+					{
+						"section": "Baritones",
+						"haschairs": "false",
+						"members": [
+							{
+								"name": "Rachel L."
+							},
+							{
+								"name": "Chris C."
+							},
+							{
+								"name": "Kenneth A."
+							},
+							{
+								"name": "Neil N."
+							},
+							{
+								"name": "Rene V."
+							}
+						]	
+					},
+					{
+						"section": "Tubas",
+						"haschairs": "false",
+						"members": [
+							{
+								"name": "Kevin C."
+							},
+							{
+								"name": "Clincy C."
+							},
+							{
+								"name": "Lawrence D."
+							},
+							{
+								"name": "Aaron J."
+							}
+						]
+					},
+					{
+						"section": "Percussion",
+						"haschairs": "true",
+						"members": [
+							{
+								"name": "Kim A.",
+								"chair": "Cymbals"
+							},
+							{
+								"name": "Chris B.",
+								"chair": "Cymbals"
+							},
+							{
+								"name": "Teyvon B.",
+								"chair": "Snare"
+							},
+							{
+								"name": "Matt R.",
+								"chair": "Snare"
+							},
+							{
+								"name": "Nicholas G.",
+								"chair": "Tenors"
+							},
+							{
+								"name": "Nicole L.",
+								"chair": "Tenors"
+							},
+							{
+								"name": "Richard C.",
+								"chair": "Bass"
+							},
+							{
+								"name": "Leslie C.",
+								"chair": "Bass"
+							},
+							{
+								"name": "Morgan J.",
+								"chair": "Bass"
+							}
+						]
+					}
+				]
+			},
+			{
+				"type": "PEPBAND",
+				"title": "Γ Band",
+				"content": [
+					{
+						"section": "Drum Major",
+						"haschairs": "false",
+						"members": [
+							{
+								"name": "Erin S."
+							}
+						]
+					}, 
+					{
+						"section": "Flutes",
+						"haschairs": "false",
+						"members": [
+							{
+								"name": "Rianna U."
+							},
+							{
+								"name": "Nicole S."
+							},
+							{
+								"name": "Lindsay K."
+							},
+							{
+								"name": "Jenna B."
+							},
+							{
+								"name": "Nicole C."
+							},
+							{
+								"name": "Conor W."
+							},
+							{
+								"name": "Michelle J."
+							}
+						]
+					},
+					{
+						"section": "Clarinets",
+						"haschairs": "false",
+						"members": 	[
+							{
+								"name": "Karissa A."
+							},
+							{
+								"name": "Michelle C."
+							},
+							{
+								"name": "Catie W."
+							},
+							{
+								"name": "Kayla P."
+							},
+							{
+								"name": "Tyler M."
+							},
+							{
+								"name": "Andrew S."
+							},
+							{
+								"name": "Audrey B."
+							}
+							,
+							{
+								"name": "Stacey O."
+							}
+						]
+					},
+					{
+						"section": "Alto Saxes",
+						"haschairs": "false",
+						"members": [
+							{
+								"name": "Stephanie R."
+							},
+							{
+								"name": "Johnny I."
+							},
+							{
+								"name": "Michael R."
+							},
+							{
+								"name": "Aidan T."
+							},
+							{
+								"name": "Brooke B."
+							},
+							{
+								"name": "Erik B."
+							}
+						]
+					},
+					{
+						"section": "Tenor Saxes",
+						"haschairs": "false",
+						"members": [
+							{
+								"name": "Brian B."
+							},
+							{
+								"name": "Chloe C."
+							},
+							{
+								"name": "Emily R."
+							},
+							{
+								"name": "Roxy W."
+							}
+						]
+					},
+					{
+						"section": "Trumpets",
+						"haschairs": "true",
+						"members": [
+							{
+								"name": "Jason R.",
+								"chair": "1st Upper"
+							},
+							{
+								"name": "Chris O.",
+								"chair": "1st Lower"
+							},
+							{
+								"name": "Brian S.",
+								"chair": "1st Lower"
+							},
+							{
+								"name": "Charles L.",
+								"chair": "2nd"
+							},
+							{
+								"name": "Christian S.",
+								"chair": "2nd"
+							},
+							{
+								"name": "Jeffrey R.",
+								"chair": "2nd"
+							},
+							{
+								"name": "Nick R.",
+								"chair": "2nd"
+							},
+							{
+								"name": "Corina H.",
+								"chair": "3rd"
+							},
+							{
+								"name": "Jacob M.",
+								"chair": "3rd"
+							},
+							{
+								"name": "Jennifer B.",
+								"chair": "3rd"
+							},
+							{
+								"name": "Matthew H.",
+								"chair": "3rd"
+							}
+						]
+					},
+					{
+						"section": "Horns",
+						"haschairs": "false",
+						"members": [
+							{
+								"name": "Julia H."
+							},
+							{
+								"name": "Matt N."
+							},
+							{
+								"name": "Erin B."
+							}
+						]
+					},
+					{
+						"section": "Trombones",
+						"haschairs": "false",
+						"members": [
+							{
+								"name": "Kevin B."
+							},
+							{
+								"name": "Patrick F."
+							},
+							{
+								"name": "Brett Y."
+							},
+							{
+								"name": "Nicole B."
+							},	
+							{
+								"name": "Hannah C."
+							},
+							{
+								"name": "Bryan S."
+							},
+							{
+								"name": "Mikkel S."
+							}
+						]
+					},
+					{
+						"section": "Baritones",
+						"haschairs": "false",
+						"members": [
+							{
+								"name": "Phil H."
+							},
+							{
+								"name": "Max B."
+							},
+							{
+								"name": "Dennis W."
+							},
+							{
+								"name": "Brett C."
+							},
+							{
+								"name": "Alvaro C."
+							}
+						]	
+					},
+					{
+						"section": "Tubas",
+						"haschairs": "false",
+						"members": [
+							{
+								"name": "Aaron G."
+							},
+							{
+								"name": "Cary D."
+							},
+							{
+								"name": "Kristen P."
+							},
+							{
+								"name": "Christian Y."
+							}
+						]
+					},
+					{
+						"section": "Percussion",
+						"haschairs": "true",
+						"members": [
+							{
+								"name": "Scott A.",
+								"chair": "Cymbals"
+							},
+							{
+								"name": "Chase K.",
+								"chair": "Cymbals"
+							},
+							{
+								"name": "Mike D.",
+								"chair": "Snare"
+							},
+							{
+								"name": "Shane E.",
+								"chair": "Snare"
+							},
+							{
+								"name": "Luis M.",
+								"chair": "Tenors"
+							},
+							{
+								"name": "Jason W.",
+								"chair": "Tenors"
+							},
+							{
+								"name": "Jessane B.",
+								"chair": "Bass"
+							},
+							{
+								"name": "Richard C.",
+								"chair": "Bass"
+							},
+							{
+								"name": "Garret K.",
+								"chair": "Bass"
+							}
+						]
+					}
+				]
+			}
+		]							
+	} 
+}
